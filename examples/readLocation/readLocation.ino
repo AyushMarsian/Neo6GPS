@@ -1,7 +1,7 @@
 /*  Copyright to AyushMarsian(Ankit Ghevariya)
  *  Licence GNU GPL V3
  *  
- *  Example for read location and time from GPS data and correct the time according to timezone
+ *  Example for read location and time from GPS data 
  *  Written by Ankit Ghevariya, public domain
  *  
  *  You have to connect pin as written below
