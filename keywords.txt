@@ -1,0 +1,17 @@
+#######################################
+# Coloring Map For Neo6GPS
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Neo6GPS	KEYWORD1
+
+#######################################
+# Methods for reading GPS data (KEYWORD2)
+#######################################
+
+readData	KEYWORD2
+gpsData		KEYWORD2
+setTimeZone	KEYWORD2
